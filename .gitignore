@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+Content/LUSH_StylizedEnvironmentSet/*
+Content/StylizedProvencal/*
+Content/Fantastic_Village_Pack/*
+Content/BattleWizardPolyart/*
